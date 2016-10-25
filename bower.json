@@ -1,0 +1,25 @@
+{
+  "name": "ilanle",
+  "main": "ilanle.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ilanle/vapor.js",
+  "authors": [
+    "ilanlewin <ilanle@yahoo.com>"
+  ],
+  "description": "ilanle is an empty test pacakge",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "ilanle"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
